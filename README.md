@@ -19,6 +19,6 @@ There are six attributes associated with each request made by a customer:
 Request id: A unique identifier of the request<br>
 Time of request: The date and time at which the customer made the trip request<br>
 Drop-off time: The drop-off date and time, in case the trip was completed<br>
-Pick-up point: The point from which the request was made<br><br>
+Pick-up point: The point from which the request was made<br>
 Driver id: The unique identification number of the driver<br>
 Status of the request: The final status of the trip, that can be either completed, cancelled by the driver or no cars available<br>
